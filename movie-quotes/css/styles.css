@@ -1,0 +1,37 @@
+h1 {
+    color: red;
+    font-size: 40px;
+    letter-spacing: 4mm;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+
+       
+
+}
+#quote {
+    text-decoration: underline;
+    font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    letter-spacing: 4mm;
+
+
+}
+.clear {
+    font-style: italic;
+
+}
+body {
+    background-color: black;
+    background-image: url("https://images-na.ssl-images-amazon.com/images/I/41tEM%2BQ1rXL._AC_.jpg");
+    background-repeat: no-repeat;
+    background-size: 200px 200px;
+    background-position: right top ;
+}
+p {
+    color: blanchedalmond;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.name {
+    font-weight: bolder
+}

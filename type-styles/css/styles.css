@@ -1,0 +1,52 @@
+html
+{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 18px;
+}
+section {
+    text-align: center
+}
+
+h1 {
+    color: brown;
+
+}
+h2 {
+    text-decoration: underline
+}
+.lw {
+font-weight: 300;
+}
+.regular {
+font-weight: 400;
+}
+.medium {
+    font-weight: 500;
+}
+.bold {
+    font-weight: 700;
+}
+.italic{
+    font-style: italic
+}
+.wide {
+    letter-spacing: 0.3em;
+}
+.narrow {
+    letter-spacing: -0.06em
+}
+.under {
+    text-decoration: underline;
+}
+.over {
+    text-decoration: overline;
+}
+.line {
+    text-decoration: line-through
+}
+.lower {
+text-transform: lowercase;
+}
+.capitalize {
+    text-transform: capitalize;
+}
